@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wizard-content {
+    border-radius: 20px;
+    width: 500px;
+    padding: 50px;
+    background: #f8f8f8;
+}
+.wizard-step-container {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+}
